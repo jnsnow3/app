@@ -1,5 +1,5 @@
 docs: add usage examples for all string helpers
-docs: add usage examples for array helpers
+docs: add usage examples  
 docs: add usage examples for number helpers
 docs: add usage examples for date helpers
 docs: add contributing guide
