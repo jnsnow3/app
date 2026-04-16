@@ -14,7 +14,7 @@ test: add tests for pick() and omit()
 test: add tests for debounce() timing
 test: add tests for memoize() cache hit
 refactor: move all exports to index.js  
-refactor: sort exports alphabetically in index.js
+refactor: sort exports alphabet 
 docs: add function signature table to README
 chore: bump version to 1.0.0 in package.json
 docs: update README with v1.0.0 badge
