@@ -25,7 +25,7 @@ feat: add kebabCase() string converter
 feat: add slugify() for url-safe strings
 test: add tests for camelCase() and kebabCase()
 test: add tests for sortBy() with multiple keys
-docs: add badges for license and version to README
+docs: add badges for license and 
 chore: add GitHub Actions CI workflow
 chore: final cleanup and lint pass 
 docs: add v1.1.0 entry to CHANGELOG
