@@ -13,7 +13,7 @@ fix: fix debounce() not   ()
 test: add tests for debounce() timing
 test: add tests for memoize()  
 refactor: move all exports to index.js  
-refactor: sort exports alphabet 
+refactor: sort exports   
 docs: add function signature 
 chore: bump version to 1.0.0  
 docs: update README with  
