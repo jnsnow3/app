@@ -27,7 +27,7 @@ test: add tests for camelCase() and kebabCase()
 test: add tests for sortBy() with multiple keys
 docs: add badges for license and version to README
 chore: add GitHub Actions CI workflow
-chore: final cleanup and lint pass before v1.0.0 tag
+chore: final cleanup and lint pass 
 docs: add v1.1.0 entry to CHANGELOG
 feat: add cloneArray() shallow copy helper
 feat: add sum() and average() math helpers
