@@ -30,7 +30,7 @@ chore: add GitHub Actions CI workflow
 chore: final cleanup and lint pass 
 docs: add v1.1.0 entry to CHANGELOG
 feat: add cloneArray() shallow copy helper
-feat: add sum() and average() math helpers
+feat: add sum() and average()  
 feat: add padStart() and padEnd() wrappers
 fix: fix memoize() with object arguments
 docs: document all new v1.1.0  
