@@ -17,7 +17,7 @@ refactor: move all exports to index.js
 refactor: sort exports alphabet 
 docs: add function signature table to README
 chore: bump version to 1.0.0 in package.json
-docs: update README with v1.0.0 badge
+docs: update README with  
 feat: add sortBy() array sort with  
 feat: add flatten() for nested array flattening
 feat: add camelCase() string 
