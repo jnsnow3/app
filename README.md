@@ -12,7 +12,6 @@ fix: fix isWeekend() off-by-one
 fix: fix debounce() not   ()
 test: add tests for debounce()  
 test: add tests for memoize()  
-refactor: move all exports to .js  
 refactor: sort exports   
 docs: add function signature 
 chore: bump version to 1.0.0  
