@@ -33,7 +33,7 @@ feat: add cloneArray() shallow copy helper
 feat: add sum() and average() math helpers
 feat: add padStart() and padEnd() wrappers
 fix: fix memoize() with object arguments
-docs: document all new v1.1.0 helpers in README
+docs: document all new v1.1.0  
 chore: bump version to 1.1.0
 docs: add project roadmap section to README
 docs: add FAQ section to README
