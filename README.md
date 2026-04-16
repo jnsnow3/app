@@ -10,7 +10,7 @@ chore: add build script to package.json
 fix: fix formatCurrency() for 
 fix: fix isWeekend() off-by-one  
 fix: fix debounce() not   ()
-test: add tests for debounce() timing
+test: add tests for debounce()  
 test: add tests for memoize()  
 refactor: move all exports to index.js  
 refactor: sort exports   
