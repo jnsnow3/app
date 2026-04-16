@@ -13,7 +13,7 @@ fix: fix debounce() not clearing on unmount
 test: add tests for pick() and omit()
 test: add tests for debounce() timing
 test: add tests for memoize() cache hit
-refactor: move all exports to index.js barrel file
+refactor: move all exports to index.js  
 refactor: sort exports alphabetically in index.js
 docs: add function signature table to README
 chore: bump version to 1.0.0 in package.json
