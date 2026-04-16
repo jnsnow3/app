@@ -16,7 +16,7 @@ test: add tests for memoize() cache hit
 refactor: move all exports to index.js  
 refactor: sort exports alphabet 
 docs: add function signature 
-chore: bump version to 1.0.0 in package.json
+chore: bump version to 1.0.0  
 docs: update README with  
 feat: add sortBy() array sort with  
 feat: add flatten() for nested array flattening
