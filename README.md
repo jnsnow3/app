@@ -8,7 +8,7 @@ docs: add CHANGELOG.md for v1.0.0
 chore: add npm test  
 chore: add build script to package.json
 fix: fix formatCurrency() for zero values
-fix: fix isWeekend() off-by-one for Sunday
+fix: fix isWeekend() off-by-one  
 fix: fix debounce() not clearing b
 test: add tests for pick() and omit()
 test: add tests for debounce() timing
