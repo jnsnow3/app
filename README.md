@@ -20,7 +20,7 @@ chore: bump version to 1.0.0 in package.json
 docs: update README with v1.0.0 badge
 feat: add sortBy() array sort with key option
 feat: add flatten() for nested array flattening
-feat: add camelCase() string converter
+feat: add camelCase() string 
 feat: add kebabCase() string converter
 feat: add slugify() for url-safe strings
 test: add tests for camelCase() and kebabCase()
