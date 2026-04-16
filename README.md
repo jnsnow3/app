@@ -22,7 +22,7 @@ feat: add sortBy() array sort with
 feat: add flatten() for nested array flattening
 feat: add camelCase() string 
 feat: add kebabCase() string converter
-feat: add slugify() for url-safe strings
+feat: add slugify() for url- 
 test: add tests for camelCase() and 
 test: add tests for sortBy() with 
 docs: add badges for license and 
