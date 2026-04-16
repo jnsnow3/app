@@ -18,7 +18,7 @@ refactor: sort exports alphabet
 docs: add function signature table to README
 chore: bump version to 1.0.0 in package.json
 docs: update README with v1.0.0 badge
-feat: add sortBy() array sort with key option
+feat: add sortBy() array sort with  
 feat: add flatten() for nested array flattening
 feat: add camelCase() string 
 feat: add kebabCase() string converter
