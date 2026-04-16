@@ -5,7 +5,7 @@ docs: add usage examples for date helpers
 docs: add contributing guide
 docs: add MIT license file
 docs: add CHANGELOG.md for v1.0.0
-chore: add npm test script 
+chore: add npm test  
 chore: add build script to package.json
 fix: fix formatCurrency() for zero values
 fix: fix isWeekend() off-by-one for Sunday
