@@ -37,7 +37,7 @@ docs: document all new v1.1.0
 chore: bump version to 1.1.0
 docs: add project roadmap section to README
 docs: add FAQ section to README
-chore: add .editorconfig for consistent formatting
+chore: add .editorconfig for consistent  
 test: improve test coverage to 100% on number.js
 test: add integration test combining  
 refactor: simplify daysBetween() implementation
