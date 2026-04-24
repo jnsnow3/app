@@ -19,7 +19,7 @@ docs: update README with
 feat: add sortBy() array sort    
 feat: add flatten() for nested 
 feat: add camelCase() string 
-feat: add kebabCase() string  
+feat: add kebabCase( ) string  
 feat: add slugify() fo 
 test: add tests for sortBy() with 
 docs: add badges for   and 
