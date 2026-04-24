@@ -32,5 +32,5 @@ docs: document
 chore: bump version to 1.1. 
 docs: add 
 chore: add .editorconf 
-test: improve test cove 
+test: improve test   
 test: add integration      
