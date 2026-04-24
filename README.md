@@ -29,7 +29,7 @@ docs: add v1.1.0 entry to
 feat: add cloneArray()   
 feat: add  () and p 
 docs: document 
-chore: bump version to 1.1. 
+chore: bump version to  .1. 
 docs: add 
 chore: add .editorconf 
 test: improve test   
