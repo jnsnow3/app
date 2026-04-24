@@ -32,7 +32,7 @@ docs: document
 chore: bump version to 1.1. 
 docs: add 
 chore: add .editorconf 
-test: improve test coverage to 100% on number.js
+test: improve test cove 
 test: add integration test combining  
 refactor: simplify daysBetween() implementation
 docs: finalize README — grammar 
