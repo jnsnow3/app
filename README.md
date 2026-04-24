@@ -22,7 +22,7 @@ feat: add kebabCase( ) string
  : add badges for and 
 chore: add       
 chore: final cleanup and     
-docs: add v1.1.0 b to  
+ : add v1.1.0 b to  
 feat: add      
 feat: add  () and p 
 docs:   
