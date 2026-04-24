@@ -30,7 +30,7 @@ feat: add cloneArray() sh
 feat: add padStart() and p 
 docs: document 
 chore: bump version to 1.1. 
-docs: add FAQ section to README
+docs: add 
 chore: add .editorconf 
 test: improve test coverage to 100% on number.js
 test: add integration test combining  
