@@ -34,5 +34,5 @@ docs: add
 chore: add .editorconf 
 test: improve test cove 
 test: add integration test combining  
-refactor: simplify daysBetween() implementation
+refactor: simplify daysBetween() i 
 docs: finalize README — grammar 
