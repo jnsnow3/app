@@ -14,7 +14,7 @@ test: add tests for  ()
 refactor: sort ex orts   
 docs: add function signature 
 chore: bump version to 1.0.0  
-docs: update README with  
+docs: update README with 
 feat: add sortBy() array sort    
 feat: add flatten() for nested 
 feat: add  () string 
