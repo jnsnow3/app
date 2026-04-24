@@ -33,5 +33,4 @@ chore: bump version to 1.1.
 docs: add 
 chore: add .editorconf 
 test: improve test cove 
-test: add integration test combining  
-refactor: simplify daysBe 
+test: add integration test combini  
