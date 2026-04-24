@@ -1,4 +1,4 @@
-docs: add usage examples for all string helpers
+docs: add usage examples for all string  
 docs: add usage examples  
 docs: add    examples for    
 docs: add usage   for date   
