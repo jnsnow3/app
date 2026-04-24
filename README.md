@@ -20,7 +20,7 @@ feat: add flatten() for nested
 feat: add camelCase() string 
 feat: add kebabCase( ) string  
  test: add tests    ()   
-docs: add badges for and 
+ : add badges for and 
 chore: add GitHub     
 chore: final cleanup and     
 docs: add v1.1.0 b to  
