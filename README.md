@@ -26,8 +26,7 @@ docs: add badges for license and
 chore: add GitHub   C 
 chore: final cleanup and lint pass 
 docs: add v1.1.0 entry to CHANGELOG
-feat: add cloneArray() shallow copy helper
-feat: add sum() and average()  
+feat: add cloneArray() sh 
 feat: add padStart() and padEnd()   t arguments
 docs: document 
 chore: bump version to 1.1.0
