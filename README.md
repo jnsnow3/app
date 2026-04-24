@@ -8,8 +8,7 @@ docs: add MIT license
 fix: fix  () for 
 fix: fix  () off-by one  
   : add tests for  ()  
-test: add tests for  ()  
-  bchore: bump version to 1.0.0  
+test: ad : bump version to 1.0.0  
 docs: update README   
 feat: add sortBy  arr ay sort    
  feat: add  ()   
