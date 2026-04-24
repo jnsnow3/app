@@ -14,7 +14,7 @@ test: add tests for  ()
 docs: update README   
 feat: add sortBy  arr ay sort    
  feat: add  ()   
-feat: add  ( ) string  
+feat: add  ( )  string  
  test: add tests    ()   
  : add badges for and 
 chore: add       
