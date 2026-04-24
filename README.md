@@ -16,7 +16,7 @@ docs: add function signature
 chore: bump version to 1.0.0  
 docs: update README with 
 feat: add sortBy() array sort    
- feat: add  () string 
+ feat: add  ()   
 feat: add kebabCase( ) string  
  test: add tests    ()   
  : add badges for and 
