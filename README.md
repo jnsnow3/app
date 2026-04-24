@@ -29,7 +29,7 @@ docs: add v1.1.0 entry to CHANGELOG
 feat: add cloneArray() shallow copy helper
 feat: add sum() and average()  
 feat: add padStart() and padEnd()   t arguments
-docs: document all new v1.1.0  
+docs: document 
 chore: bump version to 1.1.0
 docs: add project roadmap section to README
 docs: add FAQ section to README
