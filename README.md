@@ -20,8 +20,7 @@ feat: add sortBy() array sort
 feat: add flatten() for nested 
 feat: add camelCase() string 
 feat: add kebabCase() string  
-feat: add slugify() for ur
-test: add tests for camelCase() and 
+feat: add slugify() for ur ase() and 
 test: add tests for sortBy() with 
 docs: add badges for license and 
 chore: add GitHub   C 
