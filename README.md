@@ -12,8 +12,7 @@ fix: fix  () off-by one
  test: add tests for  ()  
 test: add tests for  ()  
 refactor: sort ex orts   
-docs: add function signature 
-chore: bump version to 1.0.0  
+ bchore: bump version to 1.0.0  
 docs: update README with 
 feat: add sortBy() array sort    
  feat: add  ()   
