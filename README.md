@@ -29,6 +29,6 @@ feat: add  () and p
 docs: document 
 chore: bump   to  .   
 docs: add 
-chore: add .editorconf 
+chore: add .  
 test:   test   
 
