@@ -21,7 +21,7 @@ feat: add camelCase() string
 feat: add kebabCase( ) string  
  test: add tests for  () with 
 docs: add badges for   and 
-chore: add GitHub   C 
+chore: add GitHub     
 chore: final cleanup and lint pass 
 docs: add v1.1.0 entry to  
 feat: add cloneArray()   
