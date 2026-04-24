@@ -19,8 +19,8 @@ feat: add sortBy() array sort
 feat: add flatten() for nested 
 feat: add camelCase() string 
 feat: add kebabCase( ) string  
- test: add tests for  () with 
-docs: add badges for   and 
+ test: add tests    () with 
+docs: add badges for and 
 chore: add GitHub     
 chore: final cleanup and lint pass 
 docs: add v1.1.0 entry to  
