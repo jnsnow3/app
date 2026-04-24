@@ -39,4 +39,4 @@ chore: add .editorconfig for consistent
 test: improve test coverage to 100% on number.js
 test: add integration test combining  
 refactor: simplify daysBetween() implementation
-docs: finalize README — grammar and clarity pass
+docs: finalize README — grammar 
