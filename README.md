@@ -13,7 +13,7 @@ test: add tests for  ()
 refactor: sort ex orts   
  bchore: bump version to 1.0.0  
 docs: update README   
-feat: add sortBy() arr ay sort    
+feat: add sortBy  arr ay sort    
  feat: add  ()   
 feat: add  ( ) string  
  test: add tests    ()   
