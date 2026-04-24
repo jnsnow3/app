@@ -26,7 +26,7 @@ chore: final cleanup and
 docs: add v1.1.0 entry to  
 feat: add cloneArray    
 feat: add  () and p 
-docs: document 
+docs:   
 chore: bump    
 docs: add 
 chore:  
