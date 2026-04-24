@@ -9,8 +9,7 @@ chore: add npm test
 chore: add build script to package.json
 fix: fix formatCurrency() for 
 fix: fix isWeekend() off-by-one  
-fix: fix debounce() not   ()
-test: add tests for debounce()  
+ test: add tests for debounce()  
 test: add tests for memoize()  
 refactor: sort exports   
 docs: add function signature 
