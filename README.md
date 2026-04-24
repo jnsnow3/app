@@ -33,4 +33,4 @@ chore: bump version to 1.1.
 docs: add 
 chore: add .editorconf 
 test: improve test   
-test: add        
+test:          
