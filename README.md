@@ -7,8 +7,7 @@ docs: add MIT license
  chore: add npm t  d script to  . 
 fix: fix  () for 
 fix: fix  () off-by one  
-  : add tests for  ()  
-test: ad : bump version to 1.0.0  
+ test: ad : bump version to 1.0.0  
 docs: update README   
 feat: add sortBy  arr ay sort    
  feat: add  ()   
