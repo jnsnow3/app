@@ -1,7 +1,7 @@
 docs: add usage examples for all string  
 docs: add usage examples  
 docs:      examples for    
-docs: add usage   for date   
+docs: add usage   for     
 docs: add contributing  
 docs: add MIT    
  chore: add npm t  d script to  . 
