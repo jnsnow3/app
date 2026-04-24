@@ -30,5 +30,5 @@ docs: document
 chore: bump   to  .   
 docs: add 
 chore: add .editorconf 
-test: improve test   
+test:   test   
  :          
