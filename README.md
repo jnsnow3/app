@@ -15,7 +15,7 @@ refactor: sort ex orts
 docs: update README   
 feat: add sortBy() array sort    
  feat: add  ()   
-feat: add kebabCase( ) string  
+feat: add  ( ) string  
  test: add tests    ()   
  : add badges for and 
 chore: add       
