@@ -1,14 +1,14 @@
 docs: add usage examples for all string  
 docs: add usage examples  
-docs: add    examples for    
+docs:      examples for    
 docs: add usage   for date   
 docs: add contributing  
 docs: add MIT    
  chore: add npm t  d script to  . 
 fix: fix  () for 
-fix: fix  () off-by one  
+fix: fix  () off-  one  
  test: ad : bump version to 1.0.0  
-docs: update      
+docs: update 
 feat: add sortBy  arr ay sort    
  feat: add  ()   
 feat: add  ( )  string  
