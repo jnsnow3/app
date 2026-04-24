@@ -1,6 +1,6 @@
 docs: add usage examples for all string helpers
 docs: add usage examples  
-docs: add usage examples for number  
+docs: add usage examples for    
 docs: add usage examples for date   
 docs: add contributing guide
 docs: add MIT license file
