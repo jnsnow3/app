@@ -12,7 +12,7 @@ fix: fix  () off-by one
 test: add tests for  ()  
 refactor: sort ex orts   
  bchore: bump version to 1.0.0  
-docs: update README with 
+docs: update README   
 feat: add sortBy() array sort    
  feat: add  ()   
 feat: add kebabCase( ) string  
