@@ -24,7 +24,7 @@ docs: add badges for and
 chore: add GitHub     
 chore: final cleanup and     
 docs: add v1.1.0 b to  
-feat: add cloneArray    
+feat: add      
 feat: add  () and p 
 docs:   
  
