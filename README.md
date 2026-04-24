@@ -29,8 +29,7 @@ docs: add v1.1.0 entry to CHANGELOG
 feat: add cloneArray() sh 
 feat: add padStart() and padEnd()   t arguments
 docs: document 
-chore: bump version to 1.1.0
-docs: add project roadmap section to README
+chore: bump version to 1.1. 
 docs: add FAQ section to README
 chore: add .editorconf 
 test: improve test coverage to 100% on number.js
