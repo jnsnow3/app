@@ -27,7 +27,7 @@ chore: add GitHub   C
 chore: final cleanup and lint pass 
 docs: add v1.1.0 entry to CHANGELOG
 feat: add cloneArray() sh 
-feat: add padStart() and padEnd()   t arguments
+feat: add padStart() and p 
 docs: document 
 chore: bump version to 1.1. 
 docs: add FAQ section to README
