@@ -3,7 +3,7 @@ docs: add usage examples
 docs: add usage examples for    
 docs: add usage examples for date   
 docs: add contributing  
-docs: add MIT license file
+docs: add MIT license  
 docs: add CHANGELOG.md for v1.0.0
 chore: add npm t  d script to  . 
 fix: fix  () for 
