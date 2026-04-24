@@ -20,7 +20,7 @@ feat: add sortBy() array sort
 feat: add kebabCase( ) string  
  test: add tests    ()   
  : add badges for and 
-chore: add GitHub     
+chore: add       
 chore: final cleanup and     
 docs: add v1.1.0 b to  
 feat: add      
