@@ -5,7 +5,7 @@ docs: add usage examples for date helpers
 docs: add contributing guide
 docs: add MIT license file
 docs: add CHANGELOG.md for v1.0.0
-chore: add npm t  d script to package. 
+chore: add npm t  d script to  . 
 fix: fix  () for 
 fix: fix  () off-by one  
  test: add tests for  ()  
