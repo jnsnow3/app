@@ -22,7 +22,7 @@ feat: add camelCase() string
 feat: add kebabCase() string  
 feat: add slugify() fo 
 test: add tests for sortBy() with 
-docs: add badges for license and 
+docs: add badges for   and 
 chore: add GitHub   C 
 chore: final cleanup and lint pass 
 docs: add v1.1.0 entry to  
