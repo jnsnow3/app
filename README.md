@@ -23,7 +23,7 @@ feat: add kebabCase( ) string
 docs: add badges for and 
 chore: add GitHub     
 chore: final cleanup and     
-docs: add v1.1.0 entry to  
+docs: add v1.1.0 b to  
 feat: add cloneArray    
 feat: add  () and p 
 docs:   
